@@ -1,7 +1,4 @@
 hi 
 bye 
 hate
-<<<<<<< HEAD
 baba black sheep 
-=======
->>>>>>> 96c0a01b91f4925a1ae58e861630c9b8ffe57643
