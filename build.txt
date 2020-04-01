@@ -2,5 +2,9 @@ hi this is ewar using git
 
 firtst time user 
 second time user 
+<<<<<<< HEAD
 third time 
 one two three
+=======
+third time 
+>>>>>>> 96c0a01b91f4925a1ae58e861630c9b8ffe57643
