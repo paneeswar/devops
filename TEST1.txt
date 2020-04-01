@@ -2,4 +2,5 @@ added one line
 added scnd line
 aaded thrid line
 check git pull
+check git fetch and git merge
 
