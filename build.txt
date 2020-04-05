@@ -1,6 +1,8 @@
 hi this is ewar using git
 
-om 
+om
+
+hi 
 
 git pull added by another user
 
